@@ -20,6 +20,7 @@
 *.userprefs
 *.csproj
 *.sln
+*.slnx
 *.sln.DotSettings.user
 
 

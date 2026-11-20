@@ -7,7 +7,7 @@ public class ProjectMegaSample : ModuleRules
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
         PublicDependencyModuleNames.AddRange(new string[]
         {
-            "Core", "CoreUObject", "Engine", "AIModule", "GameplayTasks"
+            "Core", "CoreUObject", "Engine", "AIModule", "GameplayTasks", "ProceduralMeshComponent"
         });
     }
 }
